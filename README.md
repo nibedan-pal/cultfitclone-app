@@ -91,25 +91,7 @@ After successful payment, this page confirms you that your order is placed.
  Lastly, it shows a tick mark that your order is succesfully placed. Thereafter you will be again re-directed to home page.
  
 
-# Authors
-
-### Pavan Lenkala:boy:
->  [Linkedin](https://www.linkedin.com/in/pvn1/)
 
 
-### Nikhil Tiwari :boy:
->  [Linkedin](https://www.linkedin.com/in/nikhil-tiwari-0b6980212/) 
-    
-
-### Chidanand Sahu:boy:
->  [Linkedin](https://www.linkedin.com/in/chidananda-sahu-b4ab15159/)
-
-
-### keshav mishra:boy:
->  [Linkedin](https://www.linkedin.com/in/keshav-mishra-55353418b/)
-
-
-### kumar gudipali:boy:
->  [Linkedin](https://www.linkedin.com/in/kumar-gudipalli-a37672176/)
 
 
